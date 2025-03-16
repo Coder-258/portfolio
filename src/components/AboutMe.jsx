@@ -10,6 +10,7 @@ export default function About() {
           <div className="flex flex-col justify-center items-center md:items-start">
             <p className="text-lg leading-relaxed mb-4 text-slate-600">I’m a passionate developer with a love for building impactful applications. My journey in tech started with curiosity, and today, I specialize in Full-Stack Development and AI-driven solutions.</p>
             <p className="text-lg leading-relaxed text-slate-600">I'm constantly learning, and my goal is to solve real-world problems through technology. I love working on projects that improve people's lives and bring new ideas to life.</p>
+            
           </div>
         </div>
       </section>
